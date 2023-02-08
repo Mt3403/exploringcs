@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
  <body>
-
+	<h1>My First Heading<I am useing H1 tags to separtate the sentances h1>
+   	<p>My first paragraph.<I am useing P1 tags to change my website /p>
  </body>
 </html>
 
